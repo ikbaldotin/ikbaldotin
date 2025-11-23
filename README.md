@@ -10,25 +10,29 @@ I’m currently learning AI tools and integrations, but I’m not working profes
 
 I enjoy turning concepts into real projects, whether it’s a small UI component or a full-stack app.
 
-What I Build
+Here you go — **converted into clean README-friendly Markdown** with proper formatting and spacing:
 
-Full-stack web applications
+---
 
-APIs and backend services
+## 🚀 What I Build
 
-Responsive UIs with React + Tailwind
+* Full-stack web applications
+* APIs and backend services
+* Responsive UIs using React + Tailwind
+* Clean, functional user experiences
+* Side projects to learn new skills
 
-Clean, functional user experiences
+---
 
-Side projects to learn new skills
+## 😊 Fun Facts
 
-Fun Facts
+* I like building more than planning
+* I don’t depend on coffee — code is my fuel
+* I explore new tech just for fun
+* Hobbies: coding, learning, creating small projects
 
-I like building more than planning
 
-I don’t depend on coffee — code is my fuel
 
-I explore new tech just for the fun of it
 
 Hobbies: coding, learning, creating small projects
 
