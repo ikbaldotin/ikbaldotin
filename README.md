@@ -8,13 +8,12 @@ If an idea comes to mind, I usually jump in, explore it, and build something out
 My main tech stack is React, Next.js, Node.js, MongoDB, and Tailwind.
 I’m currently learning AI tools and integrations, but I’m not working professionally with AI yet — just exploring and improving step by step.
 
-I enjoy turning concepts into real projects, whether it’s a small UI component or a full-stack app.
+I enjoy turning concepts into real projects, whether it’s a small UI component or a full-stack web.
 
-Here you go — **converted into clean README-friendly Markdown** with proper formatting and spacing:
 
 ---
 
-## 🚀 What I Build
+## 🚀 What I Built
 
 * Full-stack web applications
 * APIs and backend services
